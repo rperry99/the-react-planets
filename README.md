@@ -5,6 +5,6 @@ This was a challenge project on Treehouse. The design was not done by me but sup
 ## Here is what I did
 
 - Inside of App.js
-  .._ Create a Planet component that renders a planet card
-  .._ Create a container componant to hold the cards
-  ....\* Loop through each planet and create a card for each one dynamically.
+  - Create a Planet component that renders a planet card
+  - Create a container componant to hold the cards
+    - Loop through each planet and create a card for each one dynamically.
